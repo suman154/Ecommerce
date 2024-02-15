@@ -1,0 +1,1 @@
+{"user_name": "suman", "user_password": "1234", "user_type": "seller"}-{"user_name": "ram", "user_password": "ram123", "user_type": "buyer"}-
